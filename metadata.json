@@ -1,0 +1,6 @@
+{
+  "name": "AI Dictionary",
+  "description": "An interactive, fun AI-powered language dictionary with concept visualization, natural pronunciations, dynamic stories, and flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
